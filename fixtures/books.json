@@ -1,0 +1,110 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "book 3",
+      "author": "noname",
+      "pub_date": "2016-12-30"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "book 4",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "book 5",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "book 6",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "book 7",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "book 8",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "book 9",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "name": "book 10",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "name": "book 11",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "name": "book 12",
+      "author": "noname",
+      "pub_date": "2014-03-16"
+    }
+  }
+]
